@@ -1,4 +1,4 @@
-# 
+# Ligero vLLM extensiones. Con control de versiones y inferencia en tiempo real — optimizado para el máximo rendimiento y eficiencia.
 
 
 
